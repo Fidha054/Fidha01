@@ -135,7 +135,7 @@ cplay_5 : "❍ ᴏɴʟʏ ᴄʜᴀɴɴᴇʟs ᴀʀᴇ sᴜᴘᴘᴏʀᴛᴇᴅ."
 cplay_6 : "❍ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ʙᴇ ᴛʜᴇ <b>ᴏᴡɴᴇʀ</b> ᴏғ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ {0} ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ɪᴛ ᴡɪᴛʜ ᴛʜɪs ɢʀᴏᴜᴘ.\n<b>ᴄʜᴀɴɴᴇʟ's ᴏᴡɴᴇʀ :</b> @{1}\n\nᴀʟᴛᴇʀɴᴀᴛɪᴠᴇʟʏ ʏᴏᴜ ᴄᴀɴ ʟɪɴᴋ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴛʜᴀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴛʜᴇɴ ᴛʀʏ ᴄᴏɴɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ <code>/channelplay linked</code>"
 cplay_7 : "❍ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ ᴅɪsᴀʙʟᴇᴅ."
 
-play_1 : "🦋"
+play_1 : "g"
 play_2 : "<b>➻ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ ᴍᴏᴅᴇ</b>\n\nᴘʀᴏᴄᴇssɪɴɢ, ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ...\n\n<b>ʟɪɴᴋᴇᴅ ᴄʜᴀɴɴᴇʟ :</b> {0}"
 play_3 : "❍ ғᴀɪʟᴇᴅ ᴛᴏ ᴘʀᴏᴄᴇss ǫᴜᴇʀʏ."
 play_4 : "❍ <b>ᴀᴅᴍɪɴs ᴏɴʟʏ ᴘʟᴀʏ</b>\nᴏɴʟʏ ᴀᴅᴍɪɴs ᴏғ ᴛʜɪs ᴄʜᴀᴛ ᴀʀᴇ ᴀʟʟᴏᴡᴇᴅ ᴛᴏ ᴘʟᴀʏ\n\nᴄʜᴀɴɢᴇ ᴘʟᴀʏ ᴍᴏᴅᴇ ᴠɪᴀ /playmode"
@@ -174,8 +174,8 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> 𝖴𝗇𝗄𝗇𝗈𝗐𝗇 𝖣
 queue_7 : "\n𝖢𝗅𝗂𝖼𝗄 𝖮𝗇 𝖳𝗁𝖾 𝖡𝗎𝗍𝗍𝗈𝗇 𝖡𝖾𝗅𝗈𝗐 𝖳𝗈 𝖦𝖾𝗍 𝖶𝗁𝗈𝗅𝖾 𝖰𝗎𝖾𝗎𝖾𝖽 𝖫𝗂𝗌𝗍 ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n💞 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n💮 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🌼 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<blockquote><b>.° ༘🎧⋆🖇₊˚ෆ𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🪐༘ 𝙈𝙞𝙩𝙨𝙪𝙝𝙖 ✘ 𝙈𝙪𝙨𝙞𝙘 🦋✧˚.🎀༘⋆</blockquote>\n\n<b><blockquote>💝 𝑻𝒊𝒕𝒍𝒆 :</b> <a href={0}>{1}</a>\n<b>🦋 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>🌸 𝑹𝒆𝒒𝒖𝒆𝒔𝒕 𝑩𝒚 :</b> {3}</blockquote>\n\n<blockquote><b>❖ 𝐏ᴏᴡᴇʀ 𝐁ʏ : [ꜰʟᴀꜱʜ ɴᴇᴛᴡᴏʀᴋ™](https://t.me/Flash_Network_II)</b></blockquote>"
-stream_2 : "<blockquote><b>.° ༘🎧⋆🖇₊˚ෆ𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🪐༘ 𝙈𝙞𝙩𝙨𝙪𝙝𝙖 ✘ 𝙈𝙪𝙨𝙞𝙘 🦋✧˚.🎀༘⋆</b></blockquote>\n\n<blockquote>☘ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>💝 Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}</blockquote>\n\n<blockquote><b>❖ 𝐏ᴏᴡᴇʀ 𝐁ʏ : [ꜰʟᴀꜱʜ ɴᴇᴛᴡᴏʀᴋ™](https://t.me/Flash_Network_II)</b></blockquote>"
+stream_1 : "<blockquote><b>.° ༘🎧⋆🖇₊˚ෆ𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🪐༘ ˹ 𝗙 ɪ 𝙳 ʜ ⋏ 𝚾 𝗠 ʋ ʂ ɪ 𝛓 ˼ 🦋✧˚.🎀༘⋆</blockquote>\n\n<b><blockquote>💝 𝑻𝒊𝒕𝒍𝒆 :</b> <a href={0}>{1}</a>\n<b>🦋 𝑫𝒖𝒓𝒂𝒕𝒊𝒐𝒏 :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>🌸 𝑹𝒆𝒒𝒖𝒆𝒔𝒕 𝑩𝒚 :</b> {3}</blockquote>\n\n<blockquote><b>❖ 𝐏ᴏᴡᴇʀ 𝐁ʏ : [ꜰʟᴀꜱʜ ɴᴇᴛᴡᴏʀᴋ™](https://t.me/Flash_Network_II)</b></blockquote>"
+stream_2 : "<blockquote><b>.° ༘🎧⋆🖇₊˚ෆ𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🪐༘ ˹ 𝗙 ɪ 𝙳 ʜ ⋏ 𝚾 𝗠 ʋ ʂ ɪ 𝛓 ˼ 🦋✧˚.🎀༘⋆</b></blockquote>\n\n<blockquote>☘ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>💝 Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}</blockquote>\n\n<blockquote><b>❖ 𝐏ᴏᴡᴇʀ 𝐁ʏ : [ꜰʟᴀꜱʜ ɴᴇᴛᴡᴏʀᴋ™](https://t.me/Flash_Network_II)</b></blockquote>"
 
 
 CLOSE_BUTTON  : "🥂 ᴄʟᴏsᴇ 🥂"
