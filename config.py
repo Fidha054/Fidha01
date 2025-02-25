@@ -9,14 +9,14 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = "27758016"
-API_HASH = "8d34cfffe27ab461eabbf0091b1a27df"
+API_ID = "23894001"
+API_HASH = "16b67a856fa4e07f3f78c43c82b1d1e4"
 # ------------------------------------------------------
-BOT_TOKEN = "7632736990:AAEciuOcUzLVKKBYEwsmpcVLVpsbCEkKBX0"
+BOT_TOKEN = "8035210092:AAGoMmHEYHBKAkGF88TStvi4bloKl7PDxn4"
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Shunn_Mizushino")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Theo_Godness")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","MitsuhaaMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME","Fidha_X_Music_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -35,17 +35,17 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002011723196"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002367156582"))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7364852621))
+OWNER_ID = int(getenv("OWNER_ID", 7909700698))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-HEROKU_APP_NAME = "darwin04"
+HEROKU_APP_NAME = "sarwin04"
 # ----------------------------------------------------------------
 HEROKU_API_KEY = "HRKU-852706f4-8cba-4108-912f-e6b0f4a788a8"
 # ----------------------------------------------------------------
@@ -53,7 +53,7 @@ HEROKU_API_KEY = "HRKU-852706f4-8cba-4108-912f-e6b0f4a788a8"
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/cookies2002/Darwin",
+    "https://github.com/Fidha054/Fidha01",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -64,8 +64,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Tamil_Chat_123")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Tamil_Chat_123")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Fidha_X_Chennal")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Fidha_X_Chennal")
 # ------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = "BQC86fAAnWkH4HHxKsfwL6TOfhrngNf9D3D1f1tYeqDIc-NvI9HSyxfJPQTX6wSN7efTcfZ0Z3bUEVhKGNJBVY6apB9UYhL22B5adwsbdHliI2mnr2Ezmetb3Yx-P31kYL7Bdx0hy3t-gkdJw8Fmwn8Wkqr2Mr-iAHqNSu6-Wl3arie_bTNZwfQ2aPhsaM_6r0YDo06EZgMf4zu6IPJCUr1Hwv_44OnMkF2WlShuu-QvcdB_ORlO1gFAB_VWKP8GggvgLN_iBFtj8OwWPExkPvqE4Q6D63zB49-7fmzEOSR9HTW7JK38ce2e8ToKbeY6hbIUg42_UxCd3sKjj4AfZDYBd_3-OQAAAAHjgUoeAA"
+STRING1 = "BQFsl_EAbLiUgPiyV3ZN_CVQNA6g-GegcsNmPQF4kaJ6SY16XxusEdUVUqekNYW-0ZAOpz3zTKmPiWYN3J9hFKTqndNpEJCx6Zi_QQ9-h9e-a3atwj-lzsU-ZDkJE75kNsRb2aP2oIRHV7QJduVKgd_uDG3sg02wby8jlgJPMfiKBQVqm_-4lBxj-y-Dvlbrs2pcsHkfNAFyPFIwWN2SL2hJQUI9hfUTfoFI_Ql06VrxLWSN5QupZ8KSJ9-h638S94qoxlrH2F3wZG0h6jHiJkOmGZup82ZsFeZqb5im1F1aP5-42ObuoES-PbrBcuhIH7iZbhJmSHwmxngugyohTlrvdLSAGgAAAAHQbCtmAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
